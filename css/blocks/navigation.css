@@ -76,3 +76,7 @@ a:hover>.navigation__text {
 .navigation__item--active>.navigation__link>.navigation__icon--main  {
     background-image: url('../../img/sidebar-icons/feed_icon-red.png');
 }
+
+.navigation__item--active>.navigation__link>.navigation__icon--prices  {
+    background-image: url('../../img/sidebar-icons/wallet_icon-red.png');
+}

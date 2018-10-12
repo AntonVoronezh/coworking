@@ -18,8 +18,8 @@
 .comments__item {
     display: flex;
     align-items: stretch;
-    /* height: 222px; */
-    padding-top: 25px;
+    height: 222px;
+    padding-top: 5px;
 }
 
 .comments__item-description {

@@ -11,7 +11,7 @@
 
 .news__list {
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
     justify-content: space-between;
     width: 850px;
     /* padding-bottom: 8px; */
@@ -19,15 +19,15 @@
 
 .news__item {
     display: flex;
-    flex-direction: column; 
-    /* align-items: flex-start; */
+    /* flex-direction: column;  */
+    align-items: flex-start;
     align-items: center;
     /* padding-bottom: 10px; */
-    width: 250px;
+    /* width: 250px; */
 }
 
 .news__item-description {
-    /* margin-left: 18px; */
+    margin-left: 18px;
     padding-top: 35px;
 }
 

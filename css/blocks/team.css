@@ -55,14 +55,14 @@
     position: absolute;
     top: 70px;
     left: 80px;
-    color: #f89513;;
+    color: #6842f5;
     font-size: 22px;
     font-weight: 700;
-    background: #000000;
+    /* background: #000000; */
 }
 
 .team__person-img-content {
-    opacity: 0.85;
+    opacity: 0.55;
     display: block;
     height: 100%;
 }

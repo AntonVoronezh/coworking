@@ -18,7 +18,7 @@
     margin-top: 25px;
     font-size: 18px;
     text-transform: uppercase;
-   color: #ec1e79;
+    color: #ec1e79;
 }
 
 .partners__list {
@@ -42,10 +42,4 @@
     display: block;
     height: 50px;
     margin-bottom: 55px;
-}
-
-.partners__img--ural,
-.partners__img--tetra {
-    /* width: 100px;
-    height: 20px; */
 }

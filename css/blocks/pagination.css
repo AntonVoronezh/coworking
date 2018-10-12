@@ -29,7 +29,7 @@
 }
 
 .pagination__item-link {
-    color: #111111;
+    color: #27273e;
     text-decoration: none;
     width: 25px;
     height: 25px;
@@ -47,16 +47,16 @@
 }
 
 a:hover>.pagination__item-wrap {
-    background: #111111;
-    color: #f89513;
+    background: #27273e;
+    color: #ec1e79;;
 }
 
 .pagination__item-wrap--active {
     border-radius: 10%;
     width: 25px;
     height: 25px;
-    background: #111111;
-    color: #f89513;
+    background: #27273e;
+    color: #ec1e79;;
 }
 
 .pagination__list--comments {

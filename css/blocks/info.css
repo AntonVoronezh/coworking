@@ -21,9 +21,9 @@
     padding-right: 18px;
     margin: 0px;
     width: 280px;
-    height: 350px;
+    height: 230px;
     text-align: center;
-    background-color: #111111;
+    background-color: #27273e;
     color: #ffffff;
     font-size: 15px;
     line-height: 30px;
@@ -31,5 +31,5 @@
 
 .info__link {
     font-size: 16px;
-    color: #f89513;;
+    color: #ec1e79;
 }

@@ -68,3 +68,11 @@ a:hover>.navigation__text {
 .navigation__item--active>.navigation__link>.navigation__text {
     color: #ec1e79;
 }
+
+.navigation__item--active>.navigation__link>.navigation__icon--comments {
+    background-image: url('../../img/sidebar-icons/feed_icon-red.png');
+}
+
+.navigation__item--active>.navigation__link>.navigation__icon--main  {
+    background-image: url('../../img/sidebar-icons/feed_icon-red.png');
+}
